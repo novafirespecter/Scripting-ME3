@@ -95,11 +95,6 @@
   }
 }
 
-#Backdrop
-{
-  z-index: -1;
-}
-
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -175,6 +170,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  
 }
 
 abbr[title] {
@@ -11133,7 +11129,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #737373;
   }
 }
 .projects-section .project-text {
