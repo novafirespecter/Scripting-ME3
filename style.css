@@ -10982,13 +10982,13 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #9C9C9C;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #adb5bd;
+  border: 1px solid #adb5bd;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
